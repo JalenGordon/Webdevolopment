@@ -1,4 +1,4 @@
-# Webdevelopment
+# Web Development
 # Project 1
 Description:
 A professional website about me that displays information about me, resume, and my contact inormation.
